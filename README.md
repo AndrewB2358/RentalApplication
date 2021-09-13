@@ -1,6 +1,8 @@
 # RentalApplication
 Senior project- Application for renting appliances, furniture, or anything else posted
 
+Final version of our code can be found at: https://github.com/Xynon7/RentalApplication/tree/develop
+
 This project was made by myself and 6 others. The project uses Xamarin forms (now being replaced by .NET MAUI) in order to make an application for iOS and Android
 The database is not connected so the application will not work properly as of now, however a demo video will be linked at the bottom.
 My contribution to the project was implementing the front end. Essentially any page.xaml or page.xaml.cs file was written by myself (the user interface was designed by 
